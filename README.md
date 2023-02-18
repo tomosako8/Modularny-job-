@@ -6,5 +6,5 @@ Cały job jest konfigurowany przez configa, nie jest w żadnym stopniu zakodowan
 Więcej takich skryptów u nas na discordzie Cookie Leaks
 
 
-https://discord.gg/u6SUNjC4tX
-https://discord.gg/u6SUNjC4tX
+https://discord.gg/cookieleaks
+https://discord.gg/cookieleaks
